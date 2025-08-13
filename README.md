@@ -106,6 +106,4 @@ Contributions are welcome! Please follow these steps:
 - [remas565](https://github.com/remas565)
 - [Gycnr](https://github.com/Gycnr)
 
-- ة
-
 
