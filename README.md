@@ -1,4 +1,3 @@
-# Online-Exam-cheating-detection
 # AI-Based Exam Cheating Detection
 
 A real-time **AI-powered exam monitoring application** built using **Python, OpenCV, MediaPipe, YOLOv8, and Streamlit**.  
